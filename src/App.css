@@ -3,11 +3,11 @@
   text-align: center;
   width: 3em;
   font-size: 4em;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(170, 11, 11, 0.2);
   margin: 1em;
   user-select: none;
   }
   .activeCard {
-    color: rgb(255, 238, 0);
-    background: rgb(0, 102, 97);
+    color: rgb(80, 76, 24);
+    background: rgb(119, 231, 226);
    }
